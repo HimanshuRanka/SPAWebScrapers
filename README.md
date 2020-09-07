@@ -1,7 +1,7 @@
 # SPAWebScrapers
 A web scraping project I undertook to help with my work as a Student Project Assistant at McGill Libraries in thier Digital Initiatives branch.
 
-##Libraries used
+## Libraries used
 * BeautifulSoup
 ```bash
 pip install beautifulsoup4
@@ -15,7 +15,7 @@ pip install xlwings
 pip install requests
 ```
 
-##Sherpa Scraper
+## Sherpa Scraper
 file name: SherpaScraper.py  
 
 Script for a personal UDF for Excel.  
@@ -31,7 +31,7 @@ your excel sheet by column
 * Publisher
 * version\[pathway\]: embargo information
 
-#Running with xlwings
+# Running with xlwings
 To run the script on excel, you need to make sure your Excel workbook is macros enabled.
 You also need to make sure xlwings is enabled in your VBA environment. 
   
